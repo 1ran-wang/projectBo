@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Base","order":1,"parentId":0,"scrollX":1932,"scrollY":1074},
+{"id":2,"expanded":true,"name":"楼层基础","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"地牢","order":3,"parentId":2,"scrollX":1940.7272727272727,"scrollY":1074},
+{"id":4,"expanded":true,"name":"魔法隐修议会","order":4,"parentId":2,"scrollX":1940.7272727272727,"scrollY":1074},
+{"id":5,"expanded":false,"name":"圣堂","order":5,"parentId":2,"scrollX":1581.3333333333333,"scrollY":875.1111111111111}
+]
